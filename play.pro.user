@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.12.0, 2020-11-11T14:44:48. -->
+<!-- Written by QtCreator 4.12.0, 2020-11-11T15:21:09. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -81,8 +81,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Desktop_Qt_5_11_3_GCC_64bit-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Desktop_Qt_5_11_3_GCC_64bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/build-play-Desktop_Qt_5_11_3_GCC_64bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/build-play-Desktop_Qt_5_11_3_GCC_64bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -132,8 +132,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">2</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Desktop_Qt_5_11_3_GCC_64bit-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Desktop_Qt_5_11_3_GCC_64bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/build-play-Desktop_Qt_5_11_3_GCC_64bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/build-play-Desktop_Qt_5_11_3_GCC_64bit-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -183,8 +183,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Desktop_Qt_5_11_3_GCC_64bit-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Desktop_Qt_5_11_3_GCC_64bit-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/build-play-Desktop_Qt_5_11_3_GCC_64bit-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/build-play-Desktop_Qt_5_11_3_GCC_64bit-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -305,11 +305,9 @@
      <value type="int">14</value>
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
-    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes">
-     <value type="QString">DISPLAY=192.168.3.175:1</value>
-    </valuelist>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/qmlsink/play.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/qmlsink/play.pro</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/slaterd/repos/qmlsinkSample/play.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/slaterd/repos/qmlsinkSample/play.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -320,7 +318,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Desktop_Qt_5_11_3_GCC_64bit-Debug</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/slaterd/repos/build-play-Desktop_Qt_5_11_3_GCC_64bit-Debug</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
@@ -337,8 +335,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -388,8 +386,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">2</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -439,8 +437,8 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
     <value type="bool">true</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/slaterd/repos/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/slaterd/repos/build-play-Device_Qt_5_11_3_GCC_ARM_32bit_Maelstrom-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -597,8 +595,8 @@
     <value type="int" key="PE.EnvironmentAspect.Base">1</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">play (on Lightning Device)</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinuxRunConfiguration:/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/qmlsink/play.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/slaterd/repos/gst-build/subprojects/gst-plugins-good/tests/examples/qt/qmlsink/play.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinuxRunConfiguration:/home/slaterd/repos/qmlsinkSample/play.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/slaterd/repos/qmlsinkSample/play.pro</value>
     <value type="int" key="RemoteLinux.EnvironmentAspect.Version">1</value>
     <value type="QString" key="RemoteLinux.RunConfig.AlternateRemoteExecutable"></value>
     <value type="bool" key="RemoteLinux.RunConfig.UseAlternateRemoteExecutable">false</value>
